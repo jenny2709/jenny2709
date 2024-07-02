@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @jenny2709
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to my GitHub Profile! 
+Hi, I am Jenny, A passionate data analyst with a strong background in data visualization, SQL, and customer relationship management. I enjoy turning complex data into actionable insights that drive business decisions. 
 
-<!---
-jenny2709/jenny2709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Get in touch **
+LinkedIn: www.linkedin.com/in/jenny-joshi
+Email: jennyjjoshi@gmail.com
